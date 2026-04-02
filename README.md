@@ -3,7 +3,7 @@ what is this amelia?
 
 this is a collection of china inspired games!!
 
-some are html (download then open file) some of the unfinished ones im working on are zip with html
+some are html (download then open file) because im on my scchool cchromebook 
 
 # finished
 - wyatt clicker
